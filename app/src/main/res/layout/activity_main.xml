@@ -40,7 +40,7 @@
     </LinearLayout>
 
     <Button
-        android:id="@+id/IdBoton_1"
+        android:id="@+id/IdBoton_2"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="BOTON 2"
@@ -52,13 +52,13 @@
         app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
 
     <Button
-        android:id="@+id/IdBoton_2"
+        android:id="@+id/IdBoton_1"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="BOTON 1"
         android:textSize="24sp"
         android:textStyle="bold|italic"
-        app:layout_constraintBottom_toTopOf="@+id/IdBoton_1"
+        app:layout_constraintBottom_toTopOf="@+id/IdBoton_2"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/linearLayout" />
@@ -73,5 +73,5 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/IdBoton_1" />
+        app:layout_constraintTop_toBottomOf="@+id/IdBoton_2" />
 </androidx.constraintlayout.widget.ConstraintLayout>

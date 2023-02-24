@@ -21,8 +21,8 @@ public class MainActivity extends AppCompatActivity {
         IdTexto_1 = (TextView) findViewById(R.id.IdTexto_1);
         IdTexto_2 = (TextView) findViewById(R.id.IdTexto_2);
 
-        IdBoton_1 = (Button) findViewById(R.id.IdBoton_1);
-        IdBoton_2 = (Button) findViewById(R.id.IdBoton_2);
+        IdBoton_1 = (Button) findViewById(R.id.IdBoton_2);
+        IdBoton_2 = (Button) findViewById(R.id.IdBoton_1);
         IdBoton_3 = (Button) findViewById(R.id.IdBoton_3);
 
         IdBoton_1.setOnClickListener(new View.OnClickListener() {
