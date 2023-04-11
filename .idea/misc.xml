@@ -3,8 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/fabia/AndroidStudioProjects/Diem/app/src/main/res/layout/activity_login.xml" value="0.16614583333333333" />
+        <entry key="..\:/Users/fabia/AndroidStudioProjects/Diem/app/src/main/res/layout/activity_choose_login_and_reg.xml" value="0.19519927536231885" />
+        <entry key="..\:/Users/fabia/AndroidStudioProjects/Diem/app/src/main/res/layout/activity_login.xml" value="0.16" />
         <entry key="..\:/Users/fabia/AndroidStudioProjects/Diem/app/src/main/res/layout/activity_main.xml" value="0.11956521739130435" />
+        <entry key="..\:/Users/fabia/AndroidStudioProjects/Diem/app/src/main/res/layout/activity_register.xml" value="0.19519927536231885" />
       </map>
     </option>
   </component>
